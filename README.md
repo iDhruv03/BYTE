@@ -1,7 +1,9 @@
 # BYTE
 
 Usage
-index.html: This is the main webpage of the project. Please open this file in a web browser to view the project.
+
+index.html: This is the main webpage of the project. 
+Please open this file in a web browser to view the project.
 
 
 Instructions
