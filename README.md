@@ -24,4 +24,4 @@ Poem.io is a web application designed for poetry enthusiasts. It allows users to
 
 Here is a video demonstration of the Poem.io application:
 
-[![Watch the video](https://via.placeholder.com/640x480.png?text=Video+Thumbnail)](https://drive.google.com/file/d/1X2HTZ1bPskAwd1K6EnhCshTnCdRqJImj/view?usp=drive_link)
+[![Watch the video]](https://drive.google.com/file/d/1X2HTZ1bPskAwd1K6EnhCshTnCdRqJImj/view?usp=drive_link)
